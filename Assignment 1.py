@@ -1,5 +1,4 @@
-# %%
-'''Write a python program to create, append, and remove etc. operation on dictionary and tuple'''
+#Write a python program to create, append, and remove etc. operation on dictionary and tuple
 #tuple
 tup=(2,4,6,8,4,10)
 print("Number of times 4 is present ",tup.count(4))#count function
